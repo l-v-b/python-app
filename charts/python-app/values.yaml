@@ -2,7 +2,7 @@ replicaCount: 1
 image:
   repository: lvbeware/python-app
   pullPolicy: IfNotPresent
-  tag: 55e6ad
+  tag: 2cae93
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
